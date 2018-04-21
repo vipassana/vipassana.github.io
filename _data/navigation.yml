@@ -2,7 +2,9 @@
 
 - title: Writing
   url: /writing/
-- title: Projects
-  url: /projects/
 - title: About
-  url: /about/
+  url: /
+
+
+#- title: Projects
+#  url: /projects/
