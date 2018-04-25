@@ -13,8 +13,8 @@ last_modified_at: 2018-04-21T12:57:42-05:00
 
 I read about Nashville’s Declaration of Transportation Independence and it made my heart swell with the fond recollection of how cheap, safe, public transport gave me my independence.
 
-<blockquote class="twitter-tweet" data-lang="en">Mayor Briley signs 'Declaration of Transportation Independence' for Nashville<a href="https://twitter.com/JSadikKhan/status/980963113011957762">February 1, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center><blockquote class="twitter-tweet" data-lang="en">Mayor Briley signs 'Declaration of Transportation Independence' for Nashville<a href="https://twitter.com/JSadikKhan/status/980963113011957762">February 1, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center> 
 
 In 2003, I moved from Doha, Qatar to Chennai, India. Up until then my friends and I hung out at shopping malls. Saving up money from doing my chores and getting my face painted in the mall, or buying a happy meal, was all that I was allowed to do by myself. Everything else required parental supervision. It was impossible for me to break that rule because even if I got out of the house, I had no way of getting to wherever I need to go.
 
