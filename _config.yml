@@ -106,12 +106,16 @@ defaults:
 
 # Footer Links
 footer_links:
-  - title: Twitter
-    url: https://twitter.com/vpsnv
-    icon: fab fa-twitter-square
+
   - title: GitHub
     url: https://github.com/vipassana
     icon: fab fa-github-square
+  - title: Goodreads
+    url: https://goodreads.com/vipassana
+    icon: fab fa-goodreads
   - title: LinkedIn
     url: https://www.linkedin.com/in/vipassanav/
     icon: fab fa-linkedin
+  - title: Twitter
+    url: https://twitter.com/vpsnv
+    icon: fab fa-twitter-square
