@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/book%20reviews/bkr-this-divided-island/</loc>
+<lastmod>2015-02-13T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/book%20reviews/bkr-hardwick/</loc>
+<lastmod>2015-03-07T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog%20post/transit/blog-unreserved-bus/</loc>
+<lastmod>2018-04-21T13:57:42-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/categories/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/categories/edge-case/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/maps/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/markup/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/writing/</loc>
+</url>
+</urlset>
