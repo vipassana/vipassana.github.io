@@ -22,10 +22,10 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/maps/</loc>
+<loc>http://localhost:4000/tags/markup/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tags/markup/</loc>
+<loc>http://localhost:4000/places/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/writing/</loc>
