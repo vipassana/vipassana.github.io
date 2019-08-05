@@ -1,6 +1,6 @@
 ---
 title: Places
-layout: blank
+layout: places
 permalink: /places/
 show_excerpts: true
 entries_layout: list
